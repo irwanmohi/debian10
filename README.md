@@ -6,3 +6,4 @@ apt install -y screen wget && wget https://raw.githubusercontent.com/dopekid30/A
 
 wget -O install.sh "https://github.com/irwanmohi/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh 
 
+https://sites.google.com/site/bestsshvpn/script
